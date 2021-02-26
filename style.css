@@ -1,0 +1,88 @@
+.Heading{
+    font-style: italic;
+    font-size: 2vmax;
+    display: flex;
+    color: aqua;
+    justify-content: center;
+}
+.T1{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.t2{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.k1{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.k2{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.k3{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.L1{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.l11{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.l2{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.l22{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.l3{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.l33{
+    font-style:italic;
+    font-size:2vmax;
+    display:flex;
+    color:white;
+    justify-content: flex-start;
+}
+.A{
+    display: flex;
+    justify-content: space-evenly;
+}
